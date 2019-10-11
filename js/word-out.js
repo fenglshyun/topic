@@ -357,6 +357,9 @@ function word_organization() {
 
 	}
 }
+
+
+
 word_organization();
 function word_total() {
 
